@@ -12,6 +12,14 @@ data = load_data(path= "pathToFile, file_name= "foo.txt")
 Export dictionary to txt file.
 
 ```
-data = dict2txt(dicy_output, file_name= "FileName.txt")
+dict2txt(dict_output, file_name= "FileName.txt")
 ```
+
+## list2txt()
+Export list to txt file.
+
+```
+list2txt(lsts, file_name= "FileName.txt")
+```
+
 
